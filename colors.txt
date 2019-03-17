@@ -7,3 +7,9 @@ rgba(6, 106, 103, 0.9);
 
 light blue:
 #7dd9ff
+
+dark grey:
+#292b2d
+
+fonts link:
+https://te-st.ru/2015/02/20/free-cyrillic-fonts/
