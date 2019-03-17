@@ -1,0 +1,9 @@
+colors:
+
+blue:
+#066a67
+rgba(6, 106, 103, 0.9);
+
+
+light blue:
+#7dd9ff
