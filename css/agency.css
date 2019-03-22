@@ -260,7 +260,7 @@ header.masthead .intro-text .intro-heading {
   top: 40%;
   width: 100%;
   height: 20px;
-  margin-top: -12px;
+  margin-top: 0px;
   text-align: center;
   color: white;
 }
@@ -299,7 +299,7 @@ header.masthead .intro-text .intro-heading {
 .my-portfolio-text {
   max-width: 400px;
   margin: 0 auto;
-  padding: 0px;
+  padding: 10px 0px;
   text-align: center;
   font-size: 30px;
   line-height: 0.75;
@@ -325,7 +325,7 @@ header.masthead .intro-text .intro-heading {
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 0px;
-    padding: 0;
+    padding: 0px 0px 40px 0px;
   }
 }
 
