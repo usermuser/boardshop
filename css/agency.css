@@ -206,10 +206,11 @@ header.masthead .intro-text .intro-heading {
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 40px;
     margin-bottom: 25px;
-    font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    /*font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';*/
+
     color: #000000;
   }
   header.masthead .intro-text .intro-heading {
@@ -220,7 +221,14 @@ header.masthead .intro-text .intro-heading {
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     color: #292b2d;
   }
+  .my-p-text {
+    font-family:Geneva;
+    line-height: 0.75;
+  }
 }
+
+
+
 
 .service-heading {
   margin: 15px 0;
