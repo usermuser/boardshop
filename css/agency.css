@@ -87,7 +87,7 @@ section h3.section-subheading {
 }
 
 ::selection {
-  background: #fed136;
+  background: #7dd9ff;
   text-shadow: none;
 }
 
@@ -694,10 +694,12 @@ section#contact :-ms-input-placeholder {
 footer {
   padding: 25px 0;
   text-align: center;
+  background-color: #383d41;
 }
 
 footer span.copyright {
   font-size: 90%;
+  color: #ced4da;
   line-height: 40px;
   text-transform: none;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
