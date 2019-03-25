@@ -13,3 +13,7 @@ dark grey:
 
 fonts link:
 https://te-st.ru/2015/02/20/free-cyrillic-fonts/
+
+
+circles border in technology section:
+#e9ecef; (gray)

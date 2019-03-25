@@ -488,10 +488,10 @@ header.masthead .intro-text .intro-heading {
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: white;
+  color: #e9ecef;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #ffffff;
 }
 
 .timeline > li .timeline-image h4 {
@@ -600,8 +600,8 @@ header.masthead .intro-text .intro-heading {
     padding: 0 20px 20px 100px;
   }
   .timeline > li .timeline-image {
-    width: 170px;
-    height: 170px;
+    width: 180px;
+    height: 180px;
     margin-left: -85px;
   }
   .timeline > li .timeline-image h4 {
@@ -730,5 +730,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #7dd9ff;
 }
