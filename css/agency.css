@@ -128,8 +128,8 @@ img::-moz-selection {
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
-/*  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';*/
+  color: rgb(0, 0, 0);
+  /*  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';*/
   font-family:Helvetica;
 }
 
@@ -213,6 +213,9 @@ header.masthead .intro-text .intro-heading {
     color:black;
 }
 
+.logo {
+    width:100px;
+}
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
