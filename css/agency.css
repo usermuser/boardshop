@@ -217,7 +217,15 @@ header.masthead .intro-text .intro-heading {
     width: 125px;
 }
 
+.my-col{
+    padding-top: 75px;
+    width: 100%;
+}
+
 @media (min-width: 768px) {
+  my-col{
+    padding-top: 55px;
+    width: 100%;
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -593,6 +601,11 @@ header.masthead .intro-text .intro-heading {
   .timeline > li {
     min-height: 150px;
   }
+  .my-col {
+      padding-top: 60px;
+      /* padding-bottom: 23px; */
+      width: 100%;
+  }
   .timeline > li .timeline-panel {
     padding: 0 20px 20px;
   }
@@ -614,6 +627,10 @@ header.masthead .intro-text .intro-heading {
 @media (min-width: 1200px) {
   .timeline > li {
     min-height: 170px;
+  }
+  .my-col{
+    padding-top: 55px;
+    width: 100%;
   }
   .timeline > li .timeline-panel {
     padding: 30px 20px 20px 30px;
